@@ -4,7 +4,6 @@ Welcome to the TED Talks EDA repository! This project provides an in-depth explo
 ## Overview
 
 This repository contains a Jupyter notebook that walks through the process of performing EDA on a dataset of TED Talks. The analysis is structured to help uncover patterns and insights that could explain why certain talks garner more attention than others.
-Features
 
 Data Cleaning and Preprocessing
 - Handles missing data and formats date columns for temporal analysis.
